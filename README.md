@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 |     2| Python    |
 |     3| SQL       |
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
