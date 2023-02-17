@@ -31,7 +31,17 @@ Here are some ideas to get you started:
 |     3| SQL       |
 
 
+<details><summary>CLICK ME</summary>
+<p>
 
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
 YOUR TABLE
 
 </details>
