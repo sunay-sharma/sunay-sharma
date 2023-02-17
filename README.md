@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 YOUR TABLE
 
 </details>
+> If we pull together and commit ourselves, then we can push through anything.
+
+— sunay sharma
