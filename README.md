@@ -50,3 +50,10 @@ YOUR TABLE
 — sunay sharma
 
 <!-- TO DO: add more details about me later -->
+
+SYNTEX HIGHLIGHTER
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
