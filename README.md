@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -39,3 +38,5 @@ YOUR TABLE
 > If we pull together and commit ourselves, then we can push through anything.
 
 — sunay sharma
+
+<!-- TO DO: add more details about me later -->
